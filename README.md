@@ -6,4 +6,4 @@ Kukuk
 Hallo
 
 kukuk nochmal
-Schwarzenegger war ein Star
+Schwarzenegger ist ein Star
