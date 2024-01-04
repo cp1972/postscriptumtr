@@ -1,0 +1,10 @@
+---
+title: "Schlußwort"
+indent: true
+output:
+    html_document: default
+bibliography: Rel-Bib.bib
+lang: de-De
+header-includes:
+  - \usepackage[german=quotes]{csquotes}
+---
