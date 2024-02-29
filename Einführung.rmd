@@ -3,6 +3,7 @@ title: "Einführung"
 indent: true
 output:
     html_document: default
+csl: chicago-author-date.csl
 bibliography: Rel-Bib.bib
 lang: de-De
 header-includes:
