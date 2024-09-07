@@ -1,0 +1,19 @@
+---
+title: "Klappentext"
+indent: true
+output:
+    html_document: default
+csl: chicago-author-date.csl
+bibliography: Rel-Bib.bib
+lang: de-De
+header-includes:
+  - \usepackage[german=quotes]{csquotes}
+---
+
+Was haben der Neffe von Emile Durkheim Marcel Mauss, die Künstler der digitalen Kunst, Stars wie Arnold Schwarzenegger, der zeitgenössischen Präsident der Ukraine Wolodyrmyr Selenskyj, Kaiser und Päpste im (Hoch)Mittelalter und neue breite Sprachmodellen zur Herstellung von Transformers und Verbreitung der sogenannten künstlicher Intelligenz gemein? In diesem Buch argumentieren wir, dass sie innerhalb und zwischen Ordnungen von Verhältnissen zirkulieren oder solche Zirkulationen fördern, die sie unterschiedlich strukturieren und stratifizieren, daraus die unterschiedlichen Formen der Gesellschaft in unterschiedlichen Zeiten und Räumen entstehen. Mit diesen Beispielen tragen wir grundsätzlicher dazu bei, das Grundgerüst der Theorie der Relation und dabei ihre wichtigsten Begriffe synchron sowie diachron zu illustrieren. Wir vollständigen diesen Überblick über den relationalen Ansatz der Theorie der Relation mit einem Exkurs zu sozialen Ungleichheiten, wie sie mit diesem Theorierahmen aufgegriffen und behandelt werden können.
+
+Die Autorinnen
+
+Dr. Christian Papilloud ist Professor für Soziologie an der Universität Halle-Wittenberg.
+
+Dr. Eva-Maria Schultze lehrt am Institut für Soziologie der Universität Halle-Wittenberg.
