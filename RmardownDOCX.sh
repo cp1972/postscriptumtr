@@ -13,6 +13,7 @@
 #pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-6-Transformers.docx Kap-6-Transformers.rmd
 #pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-7-Exkurs-Ungleichheiten.docx Kap-7-Exkurs-Ungleichheiten.rmd
 #pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Schlusswort.docx Schlußwort.rmd
+#pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Klappentext.docx Klappentext.rmd
 
 # Make the TOC
 
