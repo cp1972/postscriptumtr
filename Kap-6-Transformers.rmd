@@ -1,5 +1,5 @@
 ---
-title: "Transformers. Medien als Akkumulatoren von Verhältnissen"
+title: "Transformer. Medien als Akkumulatoren von Verhältnissen"
 indent: true
 output:
     html_document: default
