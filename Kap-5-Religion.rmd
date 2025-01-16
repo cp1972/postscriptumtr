@@ -3,7 +3,7 @@ title: "Die Suche nach Eindeutigkeit und die Macht der Päpste"
 indent: true
 output:
     html_document: default
-csl: chicago-author-date.csl
+csl: chicago-author-date-de.csl
 bibliography: Rel-Bib.bib
 lang: de-De
 header-includes:
