@@ -1,0 +1,73 @@
+---
+title: "Inhaltsverzeichnis"
+indent: true
+output:
+    html_document: default
+csl: chicago-author-date.csl
+bibliography: Rel-Bib.bib
+lang: de-De
+header-includes:
+- \usepackage[german=quotes]{csquotes}
+---
+
+Vorwort
+
+Kapitel 1. Einführung. Ausgangslage der Theorie der Relation
+## Wieso eine Theorie der Relation?
+## Ausgangslage der Theorie der Relation
+## Das Primat der Zirkulation und Relationsstrukturen
+## Die Arbeit an relationalen Ereignissen
+## Abweichende Realtionsstrukturen und Sequenzen
+## Einschreibung
+## Widerstand
+## Reziprozität
+## Schlusswort
+## Literatur
+
+Kapitel 2. Was uns die Reziprozität der Gabe erzählt
+## Die Reziprozität in der Gabe
+## Hinter dem _hau_
+## Von der Gabe zur Nation
+## Die Verbreitung der Reziprozität als Nationalisierung
+## Von Mauss zur Theorie der Relation
+## Schlusswort
+## Literatur
+
+Kapitel 3. Das Künstlerleben leben
+## Der Wechsel der Relationsstruktur
+## Zeitgenössische makrosoziologische Ansätze zum Künstlerleben
+## Topic-Modell-Analyse des Doppellebens der Künstler
+## Das Doppelleben der Künstler im Wechsel der Relationsstrukturen
+## Die Zirkulationsmerkmale des Doppellebens der Künstler
+## Schlusswort
+## Literatur
+
+Kapitel 4. Stars als Anführer und die Attraktivität der Repräsentation.
+## Die zwei paradigmatischen Ansätze sozialer Mobilitätsforschung
+### Soziale Mobilität in klassenstrukturellen Kontexten und das EGP-Klassenschema
+### Soziale Mobilität in hierarchischen Kontexten und der internationale sozio-ökonomische Index des beruflichen Status (ISEI-08)
+## Die Zirkulation Schwarzeneggers und Selenskyjs in die Politik aus der Perspektive der Theorie der Relation
+### Die Zirkulation in die Politik auf dem Weg der Kandidatur und deren Bekanntgabe als Coup Schwarzeneggers und Selenskyjs
+### Der Wahlkampfstab des _Governator_ und des _Diener des Volkes_ als Resozialisations- und Förderinstanzen des Politikbetriebs
+### Die Mediationen der Attraktivierung von _Governator_ Schwarzenegger und dem _Diener des Volkes_ Selenskyj
+## Schlusswort
+## Literatur
+
+Kapitel 5. Die Suche nach Eindeutigkeit und die Macht der Päpste
+## Verortung -- Kaiserkrönung und kirchlicher Widerstand.
+## Vom Adel zum Bischof
+## Das Streben nach Einheit und Eindeutigkeit
+## Die Macht der Päpste
+## Schlusswort
+## Literatur
+
+Kapitel 6. Transformer. Medien als Akkumulatoren von Verhältnissen
+## Transformers als relationale Dispositive
+## Lesen
+## Zitieren und Exzerpieren
+## Literatur, literarische Kritik und die Presse
+## Die digitale Wende
+## Schlusswort
+## Literatur
+
+Kapitel 7. Schlussbetrachtung

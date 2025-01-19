@@ -5,7 +5,7 @@
 #pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-ChapVDB.docx Chapter-VDB-ENG.rmd
 
 pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Vorwort.docx Vorwort.rmd
-pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-1-Einführung.docx Einführung.rmd
+pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-1-Einführung.docx Kap-1-Einführung.rmd
 pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-2-Gabe.docx Kap-2-Gabe.rmd
 pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-3-Kunst.docx Kap-3-Kunst.rmd
 pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Kap-4-Stars.docx Kap-4-Stars.rmd
@@ -18,7 +18,7 @@ pandoc --to docx --from markdown --filter pandoc-citeproc -s -o CP-EMS-PS-Klappe
 # Make the TOC
 
 for i in Kap*.rmd; do grep "title:" "$i" | sed 's/^.*: "//' | sed 's/"$//' | sed 's/^/Kapitel /' && grep '#' "$i" && echo " "; done > Inhaltsverzeichnis.rmd
-sed -i '1 i\Vorwort\n'
+sed -i '1 i\Vorwort\n' Inhaltsverzeichnis.rmd
 echo "Kapitel Schlussbetrachtung" >> Inhaltsverzeichnis.rmd
 
 # Add per hand following header to Inhaltsverzeichnis.rmd and numbers after 'Kapitel'
